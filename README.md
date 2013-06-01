@@ -40,7 +40,6 @@ You'll need three tools to assist in ensuring installation is correct and genera
 
 		grunt server
 
-
 ### Install Notes
 
 - make sure you install the [server side application]((https://github.com/rawberg/ubuntu-server-api) on any servers you'd like to connect too
